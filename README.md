@@ -1,0 +1,2 @@
+Para realizar este proyecto escogí utilizar GitHub Copilot. 
+Mi experiencia con esta inteligencia artificial fue bastante mejor de lo que esperaba o de lo que había escuchado, sus sugerencia de codigo son bastantes precisas, aunque siempre es necesario hacer unas pequeñas correcciones y tener nociones del lenguaje que estemos utiliando para poder guiarlo al resultado esperado. En general mi experiencia fue bastante buena
